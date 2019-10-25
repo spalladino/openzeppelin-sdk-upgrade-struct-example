@@ -1,0 +1,19 @@
+{
+  "name": "upgrade-structs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/upgrades": "^2.5.3",
+    "web3": "^1.2.2"
+  },
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.5.3"
+  }
+}
